@@ -4,6 +4,6 @@ description: >-
   An example gallery of notebooks for loading, analyzing and plotting some commonly used glaciological datasets that are now accessible with Pangeo. 
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://binder.pangeo.io"
-binder_repo: ldeo-glaciology/pangeo-glaciology-examples
+binder_repo: pangeo-gallery/default-binder
 binder_ref: master
 binderbot_target_branch: binderbot-built
