@@ -1,5 +1,5 @@
 ---
-name: Example Gallery
+name: Glaciology
 description: >-
   An example gallery of notebooks for loading, analyzing and plotting some commonly used glaciological datasets that are now accessible with Pangeo. 
 gallery_repository: pangeo-gallery/pangeo-gallery
